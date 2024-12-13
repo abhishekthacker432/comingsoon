@@ -115,7 +115,7 @@ body {
 /* Responsive Styles */
 @media (max-width: 768px) {
     .fdiv {
-        width: 100%;
+        width: 90%;
         height: auto;
         padding: 9% 0 0 9%;
         gap: 30px;
@@ -150,11 +150,11 @@ body {
     }
 
     .frdiv {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .ftdiv {
-        font-size: 24px;
+        font-size: 20px;
         letter-spacing: 1px;
     }
 
